@@ -1,0 +1,15 @@
+names:
+- mouse
+- mug
+- tissue
+nc: 3
+path: /content/dataset
+roboflow:
+  license: Private
+  project: yolo-3class
+  url: https://app.roboflow.com/s-workspace-fvcft/yolo-3class/1
+  version: 1
+  workspace: s-workspace-fvcft
+test: test/images
+train: train/images
+val: valid/images
